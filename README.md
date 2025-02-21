@@ -2,6 +2,10 @@
 
 A Flutter application that fetches and displays posts from JSONPlaceholder API with offline support, pagination, and a clean architecture approach.
 
+<p float="left">
+  <img src="assets/posts.png" width="1235" alt="Post List Screen" />
+  <img src="assets/postdetails.png" width="1235" alt="Post Detail Screen" />
+</p>
 ## Getting Started
 
 - Flutter SDK (3.0.0 or higher)
