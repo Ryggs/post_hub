@@ -1,16 +1,36 @@
-# post_hub
+# PostHub - Flutter Social Posts App
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- Flutter SDK (3.0.0 or higher)
+- Dart SDK (3.0.0 or higher)
+- Android Studio / VS Code with Flutter plugins
 
-A few resources to get you started if this is your first Flutter project:
+### Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/post_hub.git
+   cd post_hub
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+
+- **Clean Architecture**: Domain-driven design with clear separation of concerns
+- **Offline Support**: View posts even without an internet connection
+- **Pagination**: Load posts in batches with "Load More" functionality
+- **Pull-to-Refresh**: Swipe down to refresh posts
+- **Smooth Animations**: Hero animations between list and detail views
+- **Error Handling**: Graceful handling of network and server errors
+- **Material Design**: Clean and modern UI with Material 3 components
+
+## Tech Stack
+
+- **State Management**: Flutter BLoC
+- **Networking**: Dio
+- **Local Storage**: Hive
+- **Dependency Injection**: GetIt
+- **Functional Programming**: Dartz for Either type
+- **UI Components**: Material Design 3
+- **Loading Animations**: Shimmer effect for loading states
