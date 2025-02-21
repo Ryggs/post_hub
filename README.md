@@ -11,17 +11,23 @@ A new Flutter project.
 ### Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/yourusername/post_hub.git
    cd post_hub
+   
 2. Install dependencies:
+
    ```bash
    flutter pub get
+   
 3. Generate Hive adapters:
+
    ```bash
    flutter pub run build_runner build
    
 4. Run the app:
+
    ```bash
    flutter run
    
