@@ -4,6 +4,8 @@ A Flutter application that fetches and displays posts from JSONPlaceholder API w
 
 <p float="left">
   <img src="assets/posts.png" width="200" alt="Post List Screen" />
+
+
   <img src="assets/postdetails.png" width="200" alt="Post Detail Screen" />
 </p>
 
