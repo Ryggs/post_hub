@@ -1,6 +1,6 @@
 # PostHub - Flutter Social Posts App
 
-A new Flutter project.
+A Flutter application that fetches and displays posts from JSONPlaceholder API with offline support, pagination, and a clean architecture approach.
 
 ## Getting Started
 
